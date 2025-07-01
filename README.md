@@ -6,7 +6,7 @@ This repo is to provide a option at sr Juan to decide what store is appropriate 
 Este proyecto es parte del desafío propuesto por Alura Latam en el módulo de Ciencia de Datos. El objetivo es asistir al Sr. Juan, propietario de la cadena **Alura Store**, para decidir cuál de sus 4 tiendas debería vender con el fin de reinvertir en un nuevo negocio. 
 
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DavidRCJ/https://github.com/DavidRCJ/Challenge_TiendasEnVenta.git/blob/main/DavidRicardoCruzJuarez_AluraStoreLatam.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DavidRCJ/Challenge_TiendasEnVenta/blob/main/DavidRicardoCruzJuarez_AluraStoreLatam.ipynb)
 
 ---
 ## 🚀 Objetivos del Proyecto
