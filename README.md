@@ -68,7 +68,7 @@ Con base en el análisis cuantitativo y visual de las métricas clave, se recomi
 ## 📍 Autor
 **David Ricardo Cruz Juarez**  
 🔗 [https://davidrcj.github.io/Portfolio-Alura-ONE/]  
-🚀 Desarrollador con interés en ciencia de datos, sistemas embebidos y eficiencia operativa.
+🚀 Desarrollador con interés en ciencia de datos, sistemas embebidos , Cloud, Frontend Web.
 
 ---
 
